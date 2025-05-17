@@ -1,0 +1,6 @@
+Exceptions are stuff from which we can recover
+It is in the throwable class and this class is inherited from the object class
+It has two types Exception and Error
+--> In Exception there are two types:
+--> 1. CHECKED : Type in which the exception is found at compile time like FILE_NOTFOUND Error
+--> 2. UNCHECKED : Type in which the exception is not found at compile time and is found when the program runs like DIVISION_BY_ZERO

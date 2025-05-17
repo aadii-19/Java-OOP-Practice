@@ -1,0 +1,12 @@
+The Variables inside the abstract classes are `Static and final`
+Mostly specifies what the classes are doing and not how it's doing so that's why it has empty methods mostly
+--> Interfaces contains only abstract whereas abstract can contain both abstract and non-abstract classes
+--> You can't create objects of interfaces
+--> Final variables is initialised coz interfaces doesn't have constructors
+--> Abstract can provide the implementation of interface but not the other way around
+--> Can implement multiple interfaces using `implements`
+--> two classes which are unrelated to each other can implement the same interface
+--> Interface has a light overhead when compared to methods so it so not advised to use in performance oriented codes.
+--> Interfaces can also extend a class and then when it is implemented by another class then every methods in both the classes should be extended
+--> IMPORTANT : We can't implement one interface with another but can use another interface by ~Extending~ it.
+--> @Annotations in itself is an interface
