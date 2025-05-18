@@ -1,0 +1,7 @@
+--> Since new keyword takes more processing time as a new object is being created
+--> We can do cloning of the object which is achieved by implementing `Cloneable` class
+--> Shallow and Deep Cloning
+--> In Shallow cloning all the primitives are given new variable but objects are referenced to the old object
+--> Like Arrays and arraylists and students object in that both the old and new both refer to the same reference and hence changes made in one will be visible in both old and new object created.
+--> Not applicable for strings coz strings are `Immutable`
+--> SHALLOW : Only references is stored instead of making a new copy

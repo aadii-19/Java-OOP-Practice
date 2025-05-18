@@ -1,0 +1,9 @@
+
+Types of Inheritance
+1. Single --> One class extends another class
+2. MultiLevel --> Where one child class can act as a parent class
+                  for other sub classes beneath it
+3. Multiple Inheritance --> Java doesn't support multiple inheritance coz if 2 parents
+                  contain the same variable then child gets confused but instead we can use "INTERFACES"
+4. Hierarchical Inheritance --> Where multiple child class inherit from a single parent class
+5. Hybrid Inheritance --> Combination of Single and multiple inheritance (but not in JAVA) (Interface)
